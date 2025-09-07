@@ -1,0 +1,19 @@
+# Ambiente Virtual Python
+venv/
+.venv/
+env/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de sessão do whatsapp-web.js
+.wwebjs_auth/
+
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de IDEs (opcional, mas recomendado)
+.vscode/
+.idea/
